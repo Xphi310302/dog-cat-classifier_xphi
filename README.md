@@ -39,7 +39,7 @@ Install the dependencies:
 pip install -r requirements.txt
 ```
 Run the web application:
-bash```
+```
 streamlit run app.py
 ```
 
