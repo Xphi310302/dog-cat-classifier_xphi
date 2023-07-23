@@ -30,7 +30,7 @@ You can install the required packages using the provided requirements.txt file.
 ## Usage
 Clone the repository:
 ```
-git clone https://github.com/your_username/cat-dog-classifier.git
+git clone https://github.com/Xphi310302/dog-cat-classifier_xphi.git
 cd dog-cat-classifier_xphi
 ```
 
