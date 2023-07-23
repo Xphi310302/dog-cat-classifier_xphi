@@ -60,7 +60,6 @@ The script will display the predicted class and confidence score.
 Customization:
 
 Replace 05.jpeg with your image to classify a different image.
-Modify the model or class names in the script if needed.
 
 Follow the instructions in the web application to upload single or multiple images for classification. Alternatively, use the predict.py script to classify an example image or camera.py for real-time webcam classification.
 Enjoy classifying your cat and dog images with ease using this interactive web application and provided scripts!
