@@ -20,11 +20,12 @@ The camera.py script enables real-time image classification using a webcam. It c
 ## Dependencies
 To run the Cat and Dog Classifier, ensure you have the following dependencies installed:
 
-TensorFlow
-Keras
-OpenCV (opencv-python)
-Pillow
-Streamlit
+- TensorFlow
+- Keras
+- OpenCV (opencv-python)
+- Pillow
+- Streamlit
+
 You can install the required packages using the provided requirements.txt file.
 
 ## Usage
