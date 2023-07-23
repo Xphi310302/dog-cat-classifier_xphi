@@ -42,7 +42,7 @@ Run the web application:
 ```
 streamlit run app.py
 ```
-I also deploy the classifier on cloud, you can test the model on: [Cat&Dog-classifier](https://dog-cat-classifierxphi-awmvjaidgr.streamlit.app/). In case the web is sleeping, it need to reconnect. Please contact me via 0945940064 or xphi.work@gmail.com ìf the website doesn't work. You can test the web locally by running the command "streamlit run app.py"
+I also deploy the classifier on cloud, you can test the model on: [Cat&Dog-classifier](https://dog-cat-classifierxphi-awmvjaidgr.streamlit.app/). In case the web is sleeping, it need to reconnect. Please contact me via 0945940064 or xphi.work@gmail.com if the website doesn't work. You can test the web locally by running the command "streamlit run app.py"
 
 Follow the instructions in the web application to upload single or multiple images for classification. Alternatively, use the predict.py script to classify an example image or camera.py for real-time webcam classification.
 Enjoy classifying your cat and dog images with ease using this interactive web application and provided scripts!
