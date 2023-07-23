@@ -29,7 +29,6 @@ You can install the required packages using the provided requirements.txt file.
 
 ## Usage
 Clone the repository:
-
 bash```
 git clone https://github.com/your_username/cat-dog-classifier.git
 cd cat-dog-classifier
