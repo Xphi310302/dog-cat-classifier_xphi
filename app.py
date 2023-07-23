@@ -42,7 +42,7 @@ if option == 'Single image':
         # pred_label = labels(np.argmax(loaded_model.predict(preprocessed_image)))
         print(uploaded_file.name)
         st.image(uploaded_file)
-        st.caption(class_names[pred_label])
+        st.subheader(class_names[pred_label])
 
 elif option == 'Multiple image':
     uploaded_file = st.file_uploader(' ',accept_multiple_files = True)
@@ -63,7 +63,7 @@ elif option == 'Multiple image':
                 # pred_label = labels(np.argmax(loaded_model.predict(preprocessed_image)))
                 print(uploaded_file[i].name)
                 st.image(uploaded_file[i])
-                st.caption(class_names[pred_label])
+                st.subheader(class_names[pred_label])
 
             
 else:
