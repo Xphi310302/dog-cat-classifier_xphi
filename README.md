@@ -31,7 +31,7 @@ You can install the required packages using the provided requirements.txt file.
 Clone the repository:
 ```
 git clone https://github.com/your_username/cat-dog-classifier.git
-cd cat-dog-classifier
+cd dog-cat-classifier_xphi
 ```
 
 Install the dependencies:
