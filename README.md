@@ -43,9 +43,11 @@ Run the web application:
 ```
 streamlit run app.py
 ```
-I also deploy the classifier on cloud, you can test the model on: [Cat&Dog-classifier](https://dog-cat-classifierxphi-awmvjaidgr.streamlit.app/). In case the web is sleeping, it need to reconnect. Please contact me via 0945940064 or xphi.work@gmail.com if the website doesn't work. You can test the web locally by running the command "streamlit run app.py"
 
 ![User interface](ui1.jpg)
+
+I also deploy the classifier on cloud, you can test the model on: [Cat&Dog-classifier](https://dog-cat-classifierxphi-awmvjaidgr.streamlit.app/). In case the web is sleeping, it need to reconnect. Please contact me via 0945940064 or xphi.work@gmail.com if the website doesn't work. You can test the web locally by running the command "streamlit run app.py"
+
 
 ## If you want to test the model without web application. following these instruction
 Example Image:
